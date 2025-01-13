@@ -81,7 +81,7 @@ analytics:
 # Site Author
 author:
   name             : "Umberto Salviati"
-  avatar           :  images/profile.png
+  avatar           : "profile_Umberto.png"
   bio              : "phd student Robust AI, Univesity of Padua"
   location         : "Vicenza, Italy"
   employer         :
