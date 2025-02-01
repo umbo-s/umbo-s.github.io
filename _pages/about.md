@@ -25,7 +25,7 @@ I’m currently a **Ph.D. student** focusing on **Robust AI** with a particular 
 ## 📚 Interests
 
 - **Deep Learning**: Advancing the state of the art in AI technologies.
-- **Teaching: **Teaching Assistant** for CCPP courses at **Università di Padova**.
+- **Teaching**: Teaching Assistant for CCPP course at **Università di Padova**.
 
 ---
 
