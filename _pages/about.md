@@ -13,7 +13,7 @@ University of Padua and FBK
 
 ---
 
-## Profile  
+## Short Bio  
 Ph.D. candidate in Computer Science at the University of Padua, enrolled in the BMCS (Brain, Mind and Computer Science) Ph.D. program within the Department of Mathematics. My research specializes in Robust AI and Machine Learning Security in adversarial settings. I focus on enhancing the reliability and trustworthiness of AI systems deployed in sensitive and high-risk environments, with particular emphasis on emerging vulnerabilities in NLP pipelines and LLM-based architectures.
 
 ---
