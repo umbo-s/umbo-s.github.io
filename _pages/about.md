@@ -28,7 +28,7 @@ Ph.D. candidate in Computer Science at the University of Padua, enrolled in the 
 - **Ph.D. in Computer Science (Ongoing)** — BMCS Ph.D. Program, Department of Mathematics, University of Padua  
   Focus: Robust AI and Machine Learning Security  
 - **M.Sc. in Computer Science** — University of Padua  
-  Thesis: *Deep Learning Models for Methodological Segmentation of Martian Terrain*
+  Thesis: *  Thesis: *Autonomous Driving on Mars: From Dataset to Models - A Deep Learning Application on Martian Imagery**
 
 ---
 
