@@ -28,7 +28,7 @@ Ph.D. candidate in Computer Science at the University of Padua, enrolled in the 
 - **Ph.D. in Computer Science (Ongoing)** — BMCS Ph.D. Program, Department of Mathematics, University of Padua  
   Focus: Robust AI and Machine Learning Security  
 - **M.Sc. in Computer Science** — University of Padua  
-  Thesis: *  Thesis: *Autonomous Driving on Mars: From Dataset to Models: A Deep Learning Application on Martian Imagery**
+  Thesis: Autonomous Driving on Mars: From Dataset to Models: A Deep Learning Application on Martian Imagery
 
 ---
 
@@ -44,10 +44,10 @@ Ph.D. candidate in Computer Science at the University of Padua, enrolled in the 
 I am open to collaborations in the areas of ML security, robust AI, NLP, and adversarial machine learning.  
 If interested in joint research or academic exchange, feel free to get in touch:
 
-📧 **Email**: umberto.salviati@phd.unipd.it  
-🏫 **[University page](https://www.unipd.it/)**  
-🏢 **[FBK research Center](https://www.fbk.eu/)** 🧠  
-🔗 **[Google Scholar](https://scholar.google.com/citations?user=gr14IaQAAAAJ&hl=en&oi=ao)**
+**Email**: umberto.salviati@phd.unipd.it  
+**[University page](https://www.unipd.it/)**  
+**[FBK research Center](https://www.fbk.eu/)**  
+**[Google Scholar](https://scholar.google.com/citations?user=gr14IaQAAAAJ&hl=en&oi=ao)**
 
 ---
 
