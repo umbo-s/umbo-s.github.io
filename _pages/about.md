@@ -28,30 +28,7 @@ Ph.D. candidate in Computer Science at the University of Padua, enrolled in the 
 - **Ph.D. in Computer Science (Ongoing)** — BMCS Ph.D. Program, Department of Mathematics, University of Padua  
   Focus: Robust AI and Machine Learning Security  
 - **M.Sc. in Computer Science** — University of Padua  
-  Thesis: *  Thesis: *Autonomous Driving on Mars: From Dataset to Models - A Deep Learning Application on Martian Imagery**
-
----
-
-## Publications  
-- *Matteo Gioele Collu, Umberto Salviati, Roberto Confalonieri, Mauro Conti, Giovanni Apruzzese* — **Publish to Perish: Prompt Injection Attacks on LLM-Assisted Peer Review**, arXiv:2508.20863 (2025).  
-  Study on prompt injection vulnerabilities in LLM-driven peer review systems.  
-- *Alberto Castagnaro, Umberto Salviati, Mauro Conti, Luca Pajola, Simeone Pizzi* — **The Hidden Threat in Plain Text: Attacking RAG Data Loaders**, arXiv:2507.05093 (2025).  
-  Analysis of security weaknesses in document ingestion pipelines of Retrieval-Augmented Generation systems.
-
-Full list available on [Google Scholar](https://scholar.google.com/citations?user=gr14IaQAAAAJ&hl=en&oi=ao).
-
----
-
-## Teaching Experience  
-
-### 2025–2026  
-- **Cybersecurity and Cryptography: Principles and Practices** – [Course page](https://didattica.unipd.it/off/2025/LM/SC/SC3005/000ZZ/SCQ0089579/N0)  
-- **Computer Architecture (Architettura degli Elaboratori)** – [Course page](https://didattica.unipd.it/off/2025/LT/SC/SC2987/000ZZ/SC01122464/DISPARI)
-
-### 2024–2025  
-- **Machine Learning for Finance** – [Course page](https://didattica.unipd.it/off/2024/LM/SC/SC2737/000ZZ/SCQ3102261/N0)
-- **Cybersecurity and Cryptography: Principles and Practices** (SCQ0089579) – [Course page](https://didattica.unipd.it/off/2024/LM/SC/SC2542/000ZZ/SCQ0089579/N0)  
-
+  Thesis: *  Thesis: *Autonomous Driving on Mars: From Dataset to Models: A Deep Learning Application on Martian Imagery**
 
 ---
 
